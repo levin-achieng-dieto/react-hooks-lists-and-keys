@@ -10,3 +10,4 @@ function App() {
 }
 
 export default App;
+// use of key word to make over arrays and objects
